@@ -210,7 +210,7 @@ Cloud-native inventory management application deployed on **AWS**.
 <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://www.codechef.com/gaze_flies_78">
+<a href="https://www.codechef.com/users/gaze_flies_78">
 <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-brown?style=for-the-badge&logo=codechef"/>
 </a>
 
