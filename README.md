@@ -1,15 +1,281 @@
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Aditya%20Dubey&fontSize=50&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Cloud%20Enthusiast%20|%20DSA&descAlignY=58&animation=fadeIn"/>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/meetdubeyaditya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dubeyaditya543) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/meetadityadubey) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meetdubeyaditya@gmail.com) 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=700&lines=Computer+Science+Undergraduate;Full+Stack+Developer;Spring+Boot+%7C+React+%7C+Next.js;AWS+Cloud+Enthusiast;Competitive+Programmer;Always+Learning+New+Technologies"/>
+</p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=dubeyaditya543&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=dubeyaditya543&theme=dark&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=dubeyaditya543&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://linkedin.com/in/dubeyaditya543">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:meetdubeyaditya@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://x.com/meetadityadubey">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/meetdubeyaditya">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=dubeyaditya543&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👋 About Me
+
+I'm **Aditya Dubey**, a Computer Science undergraduate passionate about building scalable applications, learning cloud technologies, and solving algorithmic problems.
+
+I enjoy transforming ideas into production-ready software while continuously improving my understanding of backend engineering, system design, and distributed systems.
+
+---
+
+## 🚧 Currently Working On
+
+- Building scalable full-stack applications
+- Practicing Data Structures & Algorithms
+- Learning System Design
+- Exploring AWS Cloud Services
+
+  ---
+
+## 💡 Interests
+
+- Full Stack Development
+- Backend Engineering
+- Cloud Computing
+- Distributed Systems
+- Artificial Intelligence
+- Competitive Programming
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dubeyaditya543&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubeyaditya543&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=dubeyaditya543&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dubeyaditya543&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🧳 VoyageAI
+
+AI-powered travel planner that combines **LLM reasoning**, **real-time weather**, and **beautiful UI** to generate personalized travel plans and packing recommendations.
+
+#### ✨ Highlights
+
+- 🤖 AI-powered trip planning
+- 🌦️ Live weather integration
+- 🎒 Smart packing recommendations
+- ⚡ Optimistic UI
+- 🔄 Real-time synchronization
+
+#### 🛠️ Tech
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind"/>
+</p>
+
+**Additional**
+
+- Convex
+- Zustand
+- TanStack Query
+- Groq AI
+
+</td>
+
+<td width="50%">
+
+### ✅ Full Stack Todo
+
+Production-ready Todo application featuring secure authentication and a modern full-stack architecture.
+
+#### ✨ Highlights
+
+- 🔐 JWT Authentication
+- 🔄 Refresh Token Rotation
+- 👤 User Accounts
+- ⚡ Fast API
+- 📱 Responsive UI
+
+#### 🛠️ Tech
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,spring,postgres"/>
+</p>
+
+**Additional**
+
+- TanStack Query
+- JWT
+
+</td>
+
+</tr>
+</table>
+
+---
+
+### ☁️ Grocery Inventory System
+
+Cloud-native inventory management application deployed on **AWS**.
+
+#### Features
+
+- 📦 Inventory Tracking
+- ☁️ AWS Deployment
+- 🔒 Secure Backend
+- 📈 Scalable Architecture
+
+#### Tech
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,spring,postgres"/>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,ts,js" />
+</p>
+
+---
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css" />
+</p>
+
+---
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+</p>
+
+---
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
+
+---
+
+## Cloud & Dev Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode,linux" />
+</p>
+
+---
+
+# 📈 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/meetdubeyaditya">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.codechef.com/gaze_flies_78">
+<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-brown?style=for-the-badge&logo=codechef"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+```cpp
+while(!success){
+    learn();
+    build();
+    debug();
+    repeat();
+}
+```
+
+---
+
+# 🎯 Current Goals
+
+- 🚀 Crack a Software Engineering Internship
+- ☁️ Master AWS & Cloud Technologies
+- ⚙️ Deep dive into System Design
+- 🌍 Build impactful Full Stack Applications
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:meetdubeyaditya@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/dubeyaditya543">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/meetadityadubey">
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/meetdubeyaditya">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ☕ Thanks for Visiting
+
+<p align="center">
+
+If you like my work, consider ⭐ starring my repositories.
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+
+</p>
