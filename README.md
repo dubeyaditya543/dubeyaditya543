@@ -56,10 +56,10 @@ I enjoy transforming ideas into production-ready software while continuously imp
 
 # 📈 GitHub Analytics
 
-<!-- <p align="center">
+ <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dubeyaditya543&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubeyaditya543&layout=compact&theme=tokyonight&hide_border=true"/>
-</p> -->
+</p> 
 
 <p align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=dubeyaditya543&theme=tokyonight&hide_border=true"/>
