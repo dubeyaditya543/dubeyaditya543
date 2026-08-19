@@ -50,7 +50,6 @@ I enjoy transforming ideas into production-ready software while continuously imp
 - Cloud Computing
 - Distributed Systems
 - Artificial Intelligence
-- Competitive Programming
 
 ---
 
