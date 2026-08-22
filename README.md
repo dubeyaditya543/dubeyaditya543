@@ -18,10 +18,6 @@
   <a href="https://x.com/meetadityadubey">
     <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-
-  <a href="https://instagram.com/meetdubeyaditya">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
 </p>
 
 ---
@@ -254,11 +250,6 @@ while(!success){
 <a href="https://x.com/meetadityadubey">
 <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
-
-<a href="https://instagram.com/meetdubeyaditya">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
 </p>
 
 ---
