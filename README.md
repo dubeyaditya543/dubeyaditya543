@@ -85,7 +85,7 @@ into production-ready software.
 
 > **Note on data sources:** `github-readme-stats` and `readme-typing-svg` (the services in the original file) have both moved to more actively maintained successors — `github-stats-extended.vercel.app` and `readme-typing-svg.demolab.com` respectively — so this version points at those instead for better uptime. Same query parameters, so it's a drop-in swap. -->
 <p align="center">
-  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=github_dark"/>
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dubeyaditya543&theme=github_dark"/>
 </p>
 
 <p align="center">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</p>
