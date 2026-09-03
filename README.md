@@ -79,11 +79,14 @@ into production-ready software.
   <img width="80%" src="https://streak-stats.demolab.com?user=dubeyaditya543&hide_border=true&background=0D0D0D&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&currStreakNum=39FF14&sideNums=39FF14&sideLabels=39FF14&dates=2E7D32&stroke=39FF14"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=dubeyaditya543&bg_color=0D0D0D&color=39FF14&line=39FF14&point=39FF14&area=true&area_color=39FF14&hide_border=true&custom_title=commit_activity.log"/>
 </p>
 
-> **Note on data sources:** `github-readme-stats` and `readme-typing-svg` (the services in the original file) have both moved to more actively maintained successors — `github-stats-extended.vercel.app` and `readme-typing-svg.demolab.com` respectively — so this version points at those instead for better uptime. Same query parameters, so it's a drop-in swap.
+> **Note on data sources:** `github-readme-stats` and `readme-typing-svg` (the services in the original file) have both moved to more actively maintained successors — `github-stats-extended.vercel.app` and `readme-typing-svg.demolab.com` respectively — so this version points at those instead for better uptime. Same query parameters, so it's a drop-in swap. -->
+<p align="center">
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=github_dark"/>
+</p>
 
 <p align="center">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</p>
 
