@@ -61,8 +61,6 @@ into production-ready software.
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=dubeyaditya543&bg_color=0D0D0D&color=39FF14&line=39FF14&point=39FF14&area=true&area_color=39FF14&hide_border=true&custom_title=commit_activity.log"/>
 </p>
 
-> **Note on data sources:** `github-readme-stats` and `readme-typing-svg` (the services in the original file) have both moved to more actively maintained successors — `github-stats-extended.vercel.app` and `readme-typing-svg.demolab.com` respectively — so this version points at those instead for better uptime. Same query parameters, so it's a drop-in swap.
-
 <p align="center">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</p>
 
 ## `$ ls ~/projects --featured`
@@ -217,5 +215,5 @@ while (!success) {
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:0D0D0D&height=100&section=footer&text=%3C%2F%3E%20connection_closed&fontSize=20&fontColor=39FF14&animation=twinkling"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:0D0D0D&height=100&section=footer&text=EOF%20--%20connection_closed&fontSize=20&fontColor=39FF14&animation=twinkling"/>
 </p>
