@@ -1,15 +1,9 @@
-<!--
-  ⚠ Replace every instance of YOUR_GITHUB_USERNAME below with your actual
-  GitHub username before pushing — the stats/streak/activity cards query
-  the GitHub API directly and will render as broken images otherwise.
--->
-
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:0D0D0D&height=140&section=header&text=%3E%20ADITYA_DUBEY.exe&fontSize=42&fontColor=39FF14&fontAlignY=55&fontAlignX=50&animation=twinkling&desc=SYSTEM%20ONLINE%20--%20FULL%20STACK%20DEVELOPER&descAlignY=80&descSize=15&descColor=39FF14"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=39FF14&background=0D0D0D00&center=true&vCenter=true&width=700&lines=root%40aditya%3A~%24+whoami;Computer+Science+Undergraduate;Full+Stack+Developer+%7C+Java+%2F+Spring+%2F+React;AWS+Cloud+%7C+Cloud+Practitioner+Certified;root%40aditya%3A~%24+_"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=39FF14&background=0D0D0D00&center=true&vCenter=true&width=700&lines=root%40aditya%3A~%24+whoami;Computer+Science+Undergraduate;Full+Stack+Developer+%7C+Java+%2F+Spring+%2F+React;AWS+Cloud;root%40aditya%3A~%24+_"/>
 </p>
 
 <p align="center">
