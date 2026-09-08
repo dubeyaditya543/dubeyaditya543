@@ -1,175 +1,240 @@
-<div align="center">
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:0D0D0D&height=140&section=header&text=%3E%20ADITYA_DUBEY.exe&fontSize=42&fontColor=39FF14&fontAlignY=55&fontAlignX=50&animation=twinkling&desc=SYSTEM%20ONLINE%20--%20FULL%20STACK%20DEVELOPER&descAlignY=80&descSize=15&descColor=39FF14"/>
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:7B61FF,100:00D9FF&height=220&section=header&text=Aditya%20Dubey&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20building%20with%20Java%2C%20React%20%26%20AWS&descAlignY=58&descSize=18&descColor=ffffff"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=39FF14&background=0D0D0D00&center=true&vCenter=true&width=700&lines=root%40aditya%3A~%24+whoami;Computer+Science+Undergraduate;Full+Stack+Developer+%7C+Java+%2F+Spring+%2F+React;AWS+Cloud;root%40aditya%3A~%24+_"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=900&color=7B61FF&center=true&vCenter=true&width=650&lines=Backend-leaning+Full+Stack+Developer;Java+%2F+Spring+%7C+TypeScript+%2F+React;Building+auth%2C+APIs+%26+cloud-deployed+apps"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/status-online-39FF14?style=for-the-badge&labelColor=0D0D0D&color=0D0D0D"/>
+  <img src="https://img.shields.io/badge/uptime-3rd_year_CSE-39FF14?style=for-the-badge&labelColor=0D0D0D&color=0D0D0D"/>
+  <img src="https://img.shields.io/badge/cgpa-8.93%2F10-39FF14?style=for-the-badge&labelColor=0D0D0D&color=0D0D0D"/>
+</p>
 
-<a href="https://linkedin.com/in/dubeyaditya543">
-<img src="https://img.shields.io/badge/LinkedIn-7B61FF?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:meetdubeyaditya@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-FF6B9D?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://x.com/meetadityadubey">
-<img src="https://img.shields.io/badge/X-00D9FF?style=flat-square&logo=x&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="https://linkedin.com/in/dubeyaditya543">
+    <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=39FF14"/>
+  </a>
+  <a href="mailto:meetdubeyaditya@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=39FF14"/>
+  </a>
+  <a href="https://x.com/meetadityadubey">
+    <img src="https://img.shields.io/badge/X-0D0D0D?style=for-the-badge&logo=x&logoColor=39FF14"/>
+  </a>
+</p>
 
-</div>
+<p align="center">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</p>
 
-<br/>
+## `$ neofetch`
 
-## 🚀 About Me
+```
+      .---.            root@aditya-dubey
+     /     \           -----------------
+     \.@-@./           OS: Human (Student Build)
+     /`\_/`\           Shell: full-stack.dev
+    //  _  \\          Uptime: 3rd year, since 2024
+   | \     )|_         Role: Full Stack Developer
+  /`\_`>  <_/ \        Focus: Backend, Auth, API design
+  \__/'---'\__/        Stack: Java/Spring · TS/React · AWS
+```
 
-I'm a Computer Science undergraduate (LPU, class of 2028) who builds systems that hold up past the demo — JWT/RBAC, OAuth2, token-refresh concurrency handling, pagination, and query optimization, not just CRUD.
+## `$ cat about.txt`
 
-- 🔭 Currently building full-stack apps end to end — React/Next.js frontends on Spring Boot or Express backends
-- 🌱 Deepening system design and distributed systems fundamentals
-- ☁️ AWS Cloud Practitioner & OCI Foundations Associate certified
-- 💬 Ask me about auth flows, API design, or state management
+```bash
+> whoami
+Aditya Dubey — Computer Science undergraduate who likes turning ideas
+into production-ready software.
 
-<br/>
+> current_focus
+- Building scalable full-stack applications
+- Practicing Data Structures & Algorithms
+- Learning System Design
+- Exploring AWS Cloud Services
 
-<div align="center">
+> interests --list
+[full-stack-dev] [backend-engineering] [cloud-computing]
+[distributed-systems] [artificial-intelligence]
+```
 
-## 🏆 Trophy Case
+<p align="center">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=false&margin-w=8&row=1"/>
+## `$ ./run_analytics.sh`
 
-</div>
+<p align="center">
+  <img width="80%" src="https://github-stats-extended.vercel.app/api?username=dubeyaditya543&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=39FF14&text_color=39FF14&icon_color=39FF14&border_color=39FF14&rank_icon=github"/>
+</p>
 
-<br/>
+<p align="center">
+  <img width="80%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dubeyaditya543&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=39FF14&text_color=39FF14&border_color=39FF14"/>
+</p>
 
-<div align="center">
+<p align="center">
+  <img width="80%" src="https://streak-stats.demolab.com?user=dubeyaditya543&hide_border=true&background=0D0D0D&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&currStreakNum=39FF14&sideNums=39FF14&sideLabels=39FF14&dates=2E7D32&stroke=39FF14"/>
+</p>
 
-## 📊 GitHub Analytics
+ <!--<p align="center">
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=dubeyaditya543&bg_color=0D0D0D&color=39FF14&line=39FF14&point=39FF14&area=true&area_color=39FF14&hide_border=true&custom_title=commit_activity.log"/>
+</p>
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=radical&rank_icon=github"/>
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=radical"/>
+ **Note on data sources:** `github-readme-stats` and `readme-typing-svg` (the services in the original file) have both moved to more actively maintained successors — `github-stats-extended.vercel.app` and `readme-typing-svg.demolab.com` respectively — so this version points at those instead for better uptime. Same query parameters, so it's a drop-in swap.-->
+<p align="center">
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dubeyaditya543&theme=github_dark"/>
+</p>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true"/>
+<p align="center">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</p>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&area=true&custom_title=Contribution%20Activity"/>
+## `$ ls ~/projects --featured`
 
-</div>
-
-<br/>
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-> **Setup note:** the snake animation isn't a static image link — it's generated fresh from your contribution graph by a GitHub Action that runs in your profile repo and commits the SVG to an `output` branch. It won't render until you add the workflow below. Full steps are at the end of this file.
-
-<br/>
-
-<div align="center">
-
-![section divider](https://capsule-render.vercel.app/api?type=rect&color=0:FF6B9D,50:7B61FF,100:00D9FF&height=3&section=header)
-
-</div>
-
-## 💼 Featured Projects
+```
+drwxr-xr-x  voyage-ai/            AI travel planner
+drwxr-xr-x  fullstack-todo/       Secure JWT auth todo app
+drwxr-xr-x  grocery-inventory/    AWS-deployed inventory system
+```
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
+
+**`~/projects/voyage-ai $ cat README.md`**
 
 ### 🧳 VoyageAI
-AI-powered travel planner. AI calls route through Convex serverless actions so keys never touch the client. Debounced search + query caching cut redundant calls; a typed Zustand store replaced fragmented `useState` chains across 10+ components.
 
+AI-powered travel planner combining LLM reasoning, live weather data,
+and an optimistic-UI frontend to generate personalized trip plans and
+packing lists.
+
+```diff
++ AI-powered itinerary generation
++ Live weather integration
++ Smart packing recommendations
++ Optimistic UI
++ Real-time sync
+```
+
+<p>
 <img src="https://skillicons.dev/icons?i=react,ts,tailwind"/>
+</p>
 
-`Convex` `Zustand` `TanStack Query` `Groq AI`
+`stack:` Convex · Zustand · TanStack Query · Groq AI
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
+
+**`~/projects/fullstack-todo $ cat README.md`**
 
 ### ✅ Full Stack Todo
-Production-shaped todo app: JWT auth with refresh-token rotation, scoped user accounts, and a Spring Boot API backing a React frontend.
 
+Production-ready todo application with secure authentication and a
+modern full-stack architecture.
+
+```diff
++ JWT authentication
++ Refresh token rotation
++ User accounts
++ Fast API layer
++ Responsive UI
+```
+
+<p>
 <img src="https://skillicons.dev/icons?i=react,spring,postgres"/>
+</p>
 
-`TanStack Query` `JWT`
-
-</td>
-<td width="33%" valign="top">
-
-### ☁️ Grocery Inventory
-Cloud-native inventory management app deployed on AWS — secure Spring Boot backend, PostgreSQL, built to scale past a single-user prototype.
-
-<img src="https://skillicons.dev/icons?i=aws,spring,postgres"/>
-
-`AWS` `Spring Boot` `PostgreSQL`
+`stack:` TanStack Query · JWT
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+**`~/projects/grocery-inventory $ cat README.md`**
 
-![section divider](https://capsule-render.vercel.app/api?type=rect&color=0:FF6B9D,50:7B61FF,100:00D9FF&height=3&section=header)
+### ☁️ Grocery Inventory System
 
-</div>
+Cloud-native inventory management application deployed on AWS.
 
-## 🛠️ Tech Stack
+```diff
++ Inventory tracking
++ AWS deployment
++ Secure backend
++ Scalable architecture
+```
 
-<div align="center">
+<p>
+<img src="https://skillicons.dev/icons?i=aws,spring,postgres"/>
+</p>
+
+<p align="center">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</p>
+
+## `$ cat /proc/tech_stack`
 
 **Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,ts,js"/>
+<p><img src="https://skillicons.dev/icons?i=cpp,java,python,ts,js"/></p>
 
 **Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css"/>
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css"/></p>
 
 **Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring"/>
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,spring"/></p>
 
 **Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb"/>
+<p><img src="https://skillicons.dev/icons?i=postgres,mongodb"/></p>
 
-**Cloud & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode,linux"/>
+**Cloud & Dev Tools**
+<p><img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode,linux"/></p>
 
-</div>
+<p align="center">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</p>
 
-<br/>
+## `$ ping coding_profiles`
 
-<div align="center">
-
-## 🧩 Coding Profiles
-
+<p align="center">
 <a href="https://leetcode.com/meetdubeyaditya">
-<img src="https://img.shields.io/badge/LeetCode-FF6B9D?style=flat-square&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-0D0D0D?style=for-the-badge&logo=leetcode&logoColor=39FF14"/>
 </a>
 <a href="https://www.codechef.com/users/gaze_flies_78">
-<img src="https://img.shields.io/badge/CodeChef-7B61FF?style=flat-square&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeChef-0D0D0D?style=for-the-badge&logo=codechef&logoColor=39FF14"/>
 </a>
+</p>
 
-</div>
+<p align="center">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</p>
 
-<br/>
+## `$ cat fun_fact.cpp`
 
-<div align="center">
+```cpp
+while (!success) {
+    learn();
+    build();
+    debug();
+    repeat();
+}
+```
 
-## 🎯 Currently Focused On
+## `$ cat goals.todo`
 
-Going deeper on system design &nbsp;·&nbsp; Sharpening AWS/cloud infra &nbsp;·&nbsp; Shipping more end to end, not just prototypes
+- [ ] Crack a Software Engineering internship
+- [ ] Master AWS & cloud technologies
+- [ ] Deep dive into system design
+- [ ] Build impactful full-stack applications
 
-</div>
+<p align="center">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</p>
 
-<br/>
+## `$ ./connect.sh`
 
-<div align="center">
+<p align="center">
+<a href="mailto:meetdubeyaditya@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=39FF14"/>
+</a>
+<a href="https://linkedin.com/in/dubeyaditya543">
+<img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=39FF14"/>
+</a>
+<a href="https://x.com/meetadityadubey">
+<img src="https://img.shields.io/badge/X-0D0D0D?style=for-the-badge&logo=x&logoColor=39FF14"/>
+</a>
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B61FF,100:FF6B9D&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn"/>
+<p align="center">
+<code>$ echo "thanks for stopping by — ⭐ a repo if you liked something"</code>
+</p>
 
-</div>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:0D0D0D&height=100&section=footer&text=EOF%20--%20connection_closed&fontSize=20&fontColor=39FF14&animation=twinkling"/>
+</p>
