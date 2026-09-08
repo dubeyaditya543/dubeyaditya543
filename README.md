@@ -1,240 +1,219 @@
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:0D0D0D&height=140&section=header&text=%3E%20ADITYA_DUBEY.exe&fontSize=42&fontColor=39FF14&fontAlignY=55&fontAlignX=50&animation=twinkling&desc=SYSTEM%20ONLINE%20--%20FULL%20STACK%20DEVELOPER&descAlignY=80&descSize=15&descColor=39FF14"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=39FF14&background=0D0D0D00&center=true&vCenter=true&width=700&lines=root%40aditya%3A~%24+whoami;Computer+Science+Undergraduate;Full+Stack+Developer+%7C+Java+%2F+Spring+%2F+React;AWS+Cloud;root%40aditya%3A~%24+_"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:7B61FF,100:00D9FF&height=220&section=header&text=Aditya%20Dubey&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20building%20with%20Java%2C%20React%20%26%20AWS&descAlignY=58&descSize=18&descColor=ffffff"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-online-39FF14?style=for-the-badge&labelColor=0D0D0D&color=0D0D0D"/>
-  <img src="https://img.shields.io/badge/uptime-3rd_year_CSE-39FF14?style=for-the-badge&labelColor=0D0D0D&color=0D0D0D"/>
-  <img src="https://img.shields.io/badge/cgpa-8.93%2F10-39FF14?style=for-the-badge&labelColor=0D0D0D&color=0D0D0D"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=900&color=7B61FF&center=true&vCenter=true&width=650&lines=Backend-leaning+Full+Stack+Developer;Java+%2F+Spring+%7C+TypeScript+%2F+React;Building+auth%2C+APIs+%26+cloud-deployed+apps"/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/dubeyaditya543">
-    <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=39FF14"/>
-  </a>
-  <a href="mailto:meetdubeyaditya@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=39FF14"/>
-  </a>
-  <a href="https://x.com/meetadityadubey">
-    <img src="https://img.shields.io/badge/X-0D0D0D?style=for-the-badge&logo=x&logoColor=39FF14"/>
-  </a>
-</p>
+<a href="https://linkedin.com/in/dubeyaditya543">
+<img src="https://img.shields.io/badge/LinkedIn-7B61FF?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:meetdubeyaditya@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-FF6B9D?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://x.com/meetadityadubey">
+<img src="https://img.shields.io/badge/X-00D9FF?style=flat-square&logo=x&logoColor=white"/>
+</a>
 
-<p align="center">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</p>
+</div>
 
-## `$ neofetch`
+<br/>
 
-```
-      .---.            root@aditya-dubey
-     /     \           -----------------
-     \.@-@./           OS: Human (Student Build)
-     /`\_/`\           Shell: full-stack.dev
-    //  _  \\          Uptime: 3rd year, since 2024
-   | \     )|_         Role: Full Stack Developer
-  /`\_`>  <_/ \        Focus: Backend, Auth, API design
-  \__/'---'\__/        Stack: Java/Spring · TS/React · AWS
-```
+## 🚀 About Me
 
-## `$ cat about.txt`
+I'm a Computer Science undergraduate (LPU, class of 2028) who builds systems that hold up past the demo — JWT/RBAC, OAuth2, token-refresh concurrency handling, pagination, and query optimization, not just CRUD.
 
-```bash
-> whoami
-Aditya Dubey — Computer Science undergraduate who likes turning ideas
-into production-ready software.
+- 🔭 Currently building full-stack apps end to end — React/Next.js frontends on Spring Boot or Express backends
+- 🌱 Deepening system design and distributed systems fundamentals
+- ☁️ AWS Cloud Practitioner & OCI Foundations Associate certified
+- 💬 Ask me about auth flows, API design, or state management
 
-> current_focus
-- Building scalable full-stack applications
-- Practicing Data Structures & Algorithms
-- Learning System Design
-- Exploring AWS Cloud Services
+<br/>
 
-> interests --list
-[full-stack-dev] [backend-engineering] [cloud-computing]
-[distributed-systems] [artificial-intelligence]
-```
+<div align="center">
 
-<p align="center">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</p>
+## 🏆 Trophy Case
 
-## `$ ./run_analytics.sh`
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=false&margin-w=8&row=1"/>
 
-<p align="center">
-  <img width="80%" src="https://github-stats-extended.vercel.app/api?username=dubeyaditya543&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=39FF14&text_color=39FF14&icon_color=39FF14&border_color=39FF14&rank_icon=github"/>
-</p>
+</div>
 
-<p align="center">
-  <img width="80%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dubeyaditya543&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=39FF14&text_color=39FF14&border_color=39FF14"/>
-</p>
+<br/>
 
-<p align="center">
-  <img width="80%" src="https://streak-stats.demolab.com?user=dubeyaditya543&hide_border=true&background=0D0D0D&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&currStreakNum=39FF14&sideNums=39FF14&sideLabels=39FF14&dates=2E7D32&stroke=39FF14"/>
-</p>
+<div align="center">
 
- <!--<p align="center">
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=dubeyaditya543&bg_color=0D0D0D&color=39FF14&line=39FF14&point=39FF14&area=true&area_color=39FF14&hide_border=true&custom_title=commit_activity.log"/>
-</p>
+## 📊 GitHub Analytics
 
- **Note on data sources:** `github-readme-stats` and `readme-typing-svg` (the services in the original file) have both moved to more actively maintained successors — `github-stats-extended.vercel.app` and `readme-typing-svg.demolab.com` respectively — so this version points at those instead for better uptime. Same query parameters, so it's a drop-in swap.-->
-<p align="center">
-  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dubeyaditya543&theme=github_dark"/>
-</p>
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=radical&rank_icon=github"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=radical"/>
 
-<p align="center">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</p>
+<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true"/>
 
-## `$ ls ~/projects --featured`
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&area=true&custom_title=Contribution%20Activity"/>
 
-```
-drwxr-xr-x  voyage-ai/            AI travel planner
-drwxr-xr-x  fullstack-todo/       Secure JWT auth todo app
-drwxr-xr-x  grocery-inventory/    AWS-deployed inventory system
-```
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+> **Setup note:** the snake animation isn't a static image link — it's generated fresh from your contribution graph by a GitHub Action that runs in your profile repo and commits the SVG to an `output` branch. It won't render until you add the workflow below. Full steps are at the end of this file.
+
+<br/>
+
+<div align="center">
+
+![section divider](https://capsule-render.vercel.app/api?type=rect&color=0:FF6B9D,50:7B61FF,100:00D9FF&height=3&section=header)
+
+</div>
+
+## 💼 Featured Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-**`~/projects/voyage-ai $ cat README.md`**
+<td width="33%" valign="top">
 
 ### 🧳 VoyageAI
+AI-powered travel planner. AI calls route through Convex serverless actions so keys never touch the client. Debounced search + query caching cut redundant calls; a typed Zustand store replaced fragmented `useState` chains across 10+ components.
 
-AI-powered travel planner combining LLM reasoning, live weather data,
-and an optimistic-UI frontend to generate personalized trip plans and
-packing lists.
-
-```diff
-+ AI-powered itinerary generation
-+ Live weather integration
-+ Smart packing recommendations
-+ Optimistic UI
-+ Real-time sync
-```
-
-<p>
 <img src="https://skillicons.dev/icons?i=react,ts,tailwind"/>
-</p>
 
-`stack:` Convex · Zustand · TanStack Query · Groq AI
+`Convex` `Zustand` `TanStack Query` `Groq AI`
 
 </td>
-<td width="50%" valign="top">
-
-**`~/projects/fullstack-todo $ cat README.md`**
+<td width="33%" valign="top">
 
 ### ✅ Full Stack Todo
+Production-shaped todo app: JWT auth with refresh-token rotation, scoped user accounts, and a Spring Boot API backing a React frontend.
 
-Production-ready todo application with secure authentication and a
-modern full-stack architecture.
-
-```diff
-+ JWT authentication
-+ Refresh token rotation
-+ User accounts
-+ Fast API layer
-+ Responsive UI
-```
-
-<p>
 <img src="https://skillicons.dev/icons?i=react,spring,postgres"/>
-</p>
 
-`stack:` TanStack Query · JWT
+`TanStack Query` `JWT`
+
+</td>
+<td width="33%" valign="top">
+
+### ☁️ Grocery Inventory
+Cloud-native inventory management app deployed on AWS — secure Spring Boot backend, PostgreSQL, built to scale past a single-user prototype.
+
+<img src="https://skillicons.dev/icons?i=aws,spring,postgres"/>
+
+`AWS` `Spring Boot` `PostgreSQL`
 
 </td>
 </tr>
 </table>
 
-**`~/projects/grocery-inventory $ cat README.md`**
+<div align="center">
 
-### ☁️ Grocery Inventory System
+![section divider](https://capsule-render.vercel.app/api?type=rect&color=0:FF6B9D,50:7B61FF,100:00D9FF&height=3&section=header)
 
-Cloud-native inventory management application deployed on AWS.
+</div>
 
-```diff
-+ Inventory tracking
-+ AWS deployment
-+ Secure backend
-+ Scalable architecture
-```
+## 🛠️ Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,spring,postgres"/>
-</p>
-
-<p align="center">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</p>
-
-## `$ cat /proc/tech_stack`
+<div align="center">
 
 **Languages**
-<p><img src="https://skillicons.dev/icons?i=cpp,java,python,ts,js"/></p>
+<br/>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,ts,js"/>
 
 **Frontend**
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css"/></p>
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css"/>
 
 **Backend**
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,spring"/></p>
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring"/>
 
 **Database**
-<p><img src="https://skillicons.dev/icons?i=postgres,mongodb"/></p>
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb"/>
 
-**Cloud & Dev Tools**
-<p><img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode,linux"/></p>
+**Cloud & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode,linux"/>
 
-<p align="center">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</p>
+</div>
 
-## `$ ping coding_profiles`
+<br/>
 
-<p align="center">
+<div align="center">
+
+## 🧩 Coding Profiles
+
 <a href="https://leetcode.com/meetdubeyaditya">
-<img src="https://img.shields.io/badge/LeetCode-0D0D0D?style=for-the-badge&logo=leetcode&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/LeetCode-FF6B9D?style=flat-square&logo=leetcode&logoColor=white"/>
 </a>
 <a href="https://www.codechef.com/users/gaze_flies_78">
-<img src="https://img.shields.io/badge/CodeChef-0D0D0D?style=for-the-badge&logo=codechef&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/CodeChef-7B61FF?style=flat-square&logo=codechef&logoColor=white"/>
 </a>
-</p>
 
-<p align="center">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</p>
+</div>
 
-## `$ cat fun_fact.cpp`
+<br/>
 
-```cpp
-while (!success) {
-    learn();
-    build();
-    debug();
-    repeat();
-}
+<div align="center">
+
+## 🎯 Currently Focused On
+
+Going deeper on system design &nbsp;·&nbsp; Sharpening AWS/cloud infra &nbsp;·&nbsp; Shipping more end to end, not just prototypes
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B61FF,100:FF6B9D&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn"/>
+
+</div>
+
+---
+
+### 🐍 One-time setup for the Contribution Snake
+
+The snake animation regenerates daily via GitHub Actions, so it needs a small one-time setup in the repo this README lives in (must be a repo named exactly the same as your GitHub username — your GitHub "profile repo"):
+
+1. In that repo, create the file `.github/workflows/snake.yml` with:
+
+```yaml
+name: generate contribution snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs once a day
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: generate snake svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-## `$ cat goals.todo`
-
-- [ ] Crack a Software Engineering internship
-- [ ] Master AWS & cloud technologies
-- [ ] Deep dive into system design
-- [ ] Build impactful full-stack applications
-
-<p align="center">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</p>
-
-## `$ ./connect.sh`
-
-<p align="center">
-<a href="mailto:meetdubeyaditya@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=39FF14"/>
-</a>
-<a href="https://linkedin.com/in/dubeyaditya543">
-<img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=39FF14"/>
-</a>
-<a href="https://x.com/meetadityadubey">
-<img src="https://img.shields.io/badge/X-0D0D0D?style=for-the-badge&logo=x&logoColor=39FF14"/>
-</a>
-</p>
-
-<p align="center">
-<code>$ echo "thanks for stopping by — ⭐ a repo if you liked something"</code>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:0D0D0D&height=100&section=footer&text=EOF%20--%20connection_closed&fontSize=20&fontColor=39FF14&animation=twinkling"/>
-</p>
+2. Commit it, then go to the **Actions** tab of that repo and manually run the workflow once (via "Run workflow") instead of waiting for the daily cron.
+3. Once it finishes, an `output` branch appears with the generated SVGs — the `<img>` tag already in this README will start rendering automatically.
