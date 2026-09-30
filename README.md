@@ -12,18 +12,18 @@ This is where I'll be uploading projects I'm building while prepping for placeme
 
 ### 🛠️ Tools & Tech
 
-- JavaScript/TypeScript, React, Next.js
+- C++, Java, Python
+- JavaScript/TypeScript, React, Next.js, TailwindCSS, HTML, CSS
 - Node.js, Express, Spring Boot
 - MongoDB, PostgreSQL
-- AWS, OCI, Docker
+- AWS, OCI, Docker, Git, GitHub, Postman, Linux, VSCode
 
 ---
 
 ### 🚀 Featured Projects
 
-- **MineVision AI** — a Mine Intelligence & Decision Support Platform built for SIH 2026, designed for MOIL Limited's manganese mining operations. Built with React, TypeScript, Tailwind, Leaflet and Recharts on the frontend, FastAPI + PostgreSQL/PostGIS on the backend.
 - **Grocery Sync** — a shared, real-time grocery list app with Socket.io-powered live sync, JWT auth, and permission-controlled lists. Built with Next.js 16, MongoDB, and Socket.io.
-
+- **VoyageAI** — an AI travel planning platform in React and TypeScript to deliver personalized itineraries automatically, using an AI-powered workflow end-to-end and deployed to production.
 ---
 
 ### 🎯 Currently Working Towards
@@ -38,8 +38,8 @@ This is where I'll be uploading projects I'm building while prepping for placeme
 ### 🎓 A Bit About Me
 
 - 📚 Third-year CSE undergrad, graduating 2028
-- ☁️ AWS Cloud Practitioner & OCI Foundations Associate certified
-- 🎯 Currently prepping for campus placements
+- ☁️ OCI Foundations Associate certified
+- Learning a bit of System Design and AI
 - 💻 I like building things that are production-grade, not just demos
 
 ---
