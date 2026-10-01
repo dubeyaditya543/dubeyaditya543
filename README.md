@@ -39,7 +39,7 @@ This is where I'll be uploading projects I'm building while prepping for placeme
 
 - 📚 Third-year CSE undergrad, graduating 2028
 - ☁️ OCI Foundations Associate certified
-- Learning a bit of System Design and AI
+- 🤖 Learning a bit of System Design and AI
 - 💻 I like building things that are production-grade, not just demos
 
 ---
